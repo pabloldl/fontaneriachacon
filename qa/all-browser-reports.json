@@ -1,0 +1,1029 @@
+{
+  "report": [
+    {
+      "viewport": 375,
+      "width": 375,
+      "scrollWidth": 375,
+      "height": 3540,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/copper-system-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/tools-copper-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficio",
+          "ok": true
+        },
+        {
+          "case": "navigation-materia",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-on",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-off",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 196.828125
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficio",
+          "ok": true
+        },
+        {
+          "href": "#materia",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#materia",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El oficio",
+          "height": 44
+        },
+        {
+          "text": "Materia",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 44
+        },
+        {
+          "text": "Llamar a Chacón",
+          "height": 51
+        },
+        {
+          "text": "Destacar recorrido",
+          "height": 45
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 60
+        },
+        {
+          "text": "Llamar ahora",
+          "height": 51
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3515,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/copper-system-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/tools-copper-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficio",
+          "ok": true
+        },
+        {
+          "case": "navigation-materia",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-on",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-off",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 193.875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficio",
+          "ok": true
+        },
+        {
+          "href": "#materia",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#materia",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El oficio",
+          "height": 44
+        },
+        {
+          "text": "Materia",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 44
+        },
+        {
+          "text": "Llamar a Chacón",
+          "height": 51
+        },
+        {
+          "text": "Destacar recorrido",
+          "height": 45
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 60
+        },
+        {
+          "text": "Llamar ahora",
+          "height": 51
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 768,
+      "width": 768,
+      "scrollWidth": 753,
+      "height": 3119,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/copper-system-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/tools-copper-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficio",
+          "ok": true
+        },
+        {
+          "case": "navigation-materia",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-on",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-off",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 160.828125
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficio",
+          "ok": true
+        },
+        {
+          "href": "#materia",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#materia",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El oficio",
+          "height": 44
+        },
+        {
+          "text": "Materia",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 46
+        },
+        {
+          "text": "Llamar a Chacón",
+          "height": 53
+        },
+        {
+          "text": "Destacar recorrido",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 77
+        },
+        {
+          "text": "Llamar ahora",
+          "height": 53
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1425,
+      "height": 3657,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/copper-system-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/tools-copper-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficio",
+          "ok": true
+        },
+        {
+          "case": "navigation-materia",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-on",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-off",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 25.140625
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficio",
+          "ok": true
+        },
+        {
+          "href": "#materia",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#materia",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El oficio",
+          "height": 44
+        },
+        {
+          "text": "Materia",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 46
+        },
+        {
+          "text": "Llamar a Chacón",
+          "height": 53
+        },
+        {
+          "text": "Destacar recorrido",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 86.09375
+        },
+        {
+          "text": "Llamar ahora",
+          "height": 53
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1905,
+      "height": 3910,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/copper-system-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/tools-copper-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficio",
+          "ok": true
+        },
+        {
+          "case": "navigation-materia",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-on",
+          "ok": true
+        },
+        {
+          "case": "trace-keyboard-off",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 25.3125
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficio",
+          "ok": true
+        },
+        {
+          "href": "#materia",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#materia",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34608443706",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El oficio",
+          "height": 44
+        },
+        {
+          "text": "Materia",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 46
+        },
+        {
+          "text": "Llamar a Chacón",
+          "height": 53
+        },
+        {
+          "text": "Destacar recorrido",
+          "height": 44
+        },
+        {
+          "text": "608 44 37 06",
+          "height": 87.09375
+        },
+        {
+          "text": "Llamar ahora",
+          "height": 53
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "reducedMotion": {
+    "scroll": "auto",
+    "animations": 0,
+    "revealVisible": true
+  },
+  "noJs": {
+    "h1": 1,
+    "revealVisible": true,
+    "anchors": true
+  }
+}
